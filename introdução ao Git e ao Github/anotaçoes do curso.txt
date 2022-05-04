@@ -1,0 +1,27 @@
+o curso Git e Github no decorrer das aulas em si ensinou comando basicos e especificos para como subir o seu projeto ao ar, comando que funciona no windows e no linux muitos deles são parecidos como por exemplo:
+dir - listar - windows
+ls - listar - linux
+listar
+
+
+cd / local especifico do sistema - windows
+cd windows - dir todos as pastas
+cd.. voltar ao diretorio de antes
+
+linux - cd.. votar diretorio
+
+cls- limpar a tela - windows
+clear- limpar tela - linux
+
+mkdir - criar pasta - windows
+mkdir - criar pasta - linux
+
+echo- criar arquivo- windows
+echo- criar pasta - linux
+ rmdir - remover a pasta - windows
+rm -rm -rf - remover a pasta - linux
+
+comandos para criar chave ssh no git bash
+$ ssh-keygen -t ed25519 
+
+pwd mostar todo o caminho certo
